@@ -1,0 +1,2 @@
+# Javaexample
+Javascript variables
